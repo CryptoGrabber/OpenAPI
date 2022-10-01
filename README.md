@@ -1,2 +1,3 @@
 # OpenAPI
-CryptoGrabber OpenAPI Documentation
+[CryptoGrabber OpenAPI Documentation
+](https://github.com/CryptoGrabber/OpenAPI/wiki/Документация)
