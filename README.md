@@ -1,0 +1,2 @@
+# OpenAPI
+CryptoGrabber OpenAPI Documentation
